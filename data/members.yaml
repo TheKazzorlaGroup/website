@@ -4,6 +4,10 @@
 # the logo should be a file inside static/images/members ore a link to the png/jpg
 # the dimension of the logo should be 250x250
 ##
+- organization: The Kazzorla Group
+  country: USA
+  logo: https://www.thekazzorlagroup.com/wp-content/uploads/elementor/thumbs/covidgo19-tkg1-oou6aikmrzaxjqcw68oljtjlbi4vyanze1ok6mj120.jpg
+  url: https://www.thekazzorlagroup.com/projects/
 - organization: TCN Coalition
   country: Global
   logo: images/members/tcn-coalition-logo.png
